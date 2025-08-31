@@ -1,6 +1,6 @@
 # cv-dumper
 
-A fast concurrent resume downloader for atb-jobs.com.
+A fast concurrent resume downloader.
 
 ## Installation
 
