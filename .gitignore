@@ -1,4 +1,4 @@
 ./output/*
-./main.go
-./go.mod
-./*.pdf
+main.go
+go.mod
+*.pdf
