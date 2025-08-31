@@ -35,6 +35,3 @@ All downloaded files will be saved as `<resume_id>.pdf` in the specified output 
 
 ## Requirements
 - Go 1.18 or newer
-
-## License
-MIT
